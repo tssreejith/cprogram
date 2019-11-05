@@ -1,0 +1,1 @@
+compoundinterst.o: ../compoundinterst.c

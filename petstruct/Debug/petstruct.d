@@ -1,0 +1,1 @@
+petstruct.o: ../petstruct.c
